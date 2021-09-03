@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rijans Bhagat</h1>
-<h3 align="center">Ict Undergraduate From PDEU</h3>
+<h3 align="center">ICT Undergraduate From PDEU</h3>
 
 - 🌱 I’m currently learning **Data Structures and Alogrithm**
 
 - 📫 How to reach me **rijans.bhagat003@gmail.com**
 
-- ⚡ Fun fact **I am Also Passionate about Photography**
+- ⚡ Fun fact **I am also Passionate about Photography**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
