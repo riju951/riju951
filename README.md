@@ -20,5 +20,5 @@
 
 [![@rijansbhagat's Holopin board](https://holopin.me/rijansbhagat)](https://holopin.io/@rijansbhagat)
 
-(https://github-readme-stats.vercel.app/api?username=riju951)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=riju951)](https://git.io/streak-stats)
 
