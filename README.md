@@ -18,6 +18,6 @@
 
 <h3 align="left">Holopin board:</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com/riju951=DenverCoder1)](https://git.io/streak-stats)
-
 [![@rijansbhagat's Holopin board](https://holopin.me/rijansbhagat)](https://holopin.io/@rijansbhagat)
+
+[![GitHub Streak](https://streak-stats.demolab.com/riju951DenverCoder1)](https://git.io/streak-stats)
