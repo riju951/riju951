@@ -20,4 +20,4 @@
 
 [![@rijansbhagat's Holopin board](https://holopin.me/rijansbhagat)](https://holopin.io/@rijansbhagat)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riju951 &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riju951&theme=radical)
