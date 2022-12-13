@@ -22,7 +22,7 @@
  </p>
  
 <p align="center">
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riju951&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riju951&theme=radical)
  </p>
 
 <p align="center">
