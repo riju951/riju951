@@ -29,9 +29,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=riju951&theme=dark&fire=87ceeb&ring=87ceeb&currStreakLabel=87ceeb" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/riju951"><img alt="Rijans's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=riju951&theme=react-dark&color=fff&bg_color=050f2c" /></a>
-</p>
 
 
 
