@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/riju951"><img alt="Jay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=riju951&theme=react-dark&color=fff&bg_color=050f2c" /></a>
+  <a href="https://github.com/riju951"><img alt="Rijans's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=riju951&theme=react-dark&color=fff&bg_color=050f2c" /></a>
 </p>
 
 
