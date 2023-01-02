@@ -25,9 +25,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=riju951&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riju951&theme=dark&fire=87ceeb&ring=87ceeb&currStreakLabel=87ceeb" alt="GitHub Streak" />
-</p>
 
 
 
