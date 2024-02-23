@@ -18,6 +18,7 @@
 <a href="https://t.me/RijansBhagat" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a> 
 <a href="https://www.instagram.com/r458_fireflies/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram"/></a> 
 <a href="https://rijansb.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+<a href="https://www.credly.com/users/rijans-bhagat/badges" target="_blank"><img src="https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white"/></a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
