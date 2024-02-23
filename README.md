@@ -23,7 +23,7 @@
  
 # ⚙️ GitHub Analytics
   
-<table>
+<table align="center">
   <tr>
 <td><img height="180px" src="https://github-readme-stats.vercel.app/api?username=riju951&show_icons=true&theme=dark" />
     <td><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riju951&layout=compact&theme=dark" /></td>
@@ -34,11 +34,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riju951&layout=compact&theme=dark" alt="Rijans Bhagat"/></p>
   </div>
 
-
 # 📈 Contribution Graph  
- [![Rijans Bhagat's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=riju951&&theme=xcode)](https://github.com/riju951)
-
- </div>
+ [![RIjans's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riju951&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/riju951/github-readme-activity-graph)
+ 
 
 # 🏆 GitHub Trophies
 
