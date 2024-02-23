@@ -21,9 +21,20 @@
 [![@rijansbhagat's Holopin board](https://holopin.me/rijansbhagat)](https://holopin.io/@rijansbhagat)
  
  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=riju951&theme=radical" alt="GitHub Stats" />
-</p>
+# <h2 align="left">📊 GitHub Status:</h2>
+
+<!-- ![](https://github-readme-stats.vercel.app/api?username=riju951&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
+<img  src="https://github-readme-stats.vercel.app/api?username=riju951&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="riju951" width="400px"/> <img  src="https://github-readme-streak-stats.herokuapp.com/?user=riju951&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="riju961" width="400px"/></br>
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=riju951&theme=omni&hide_border=false)<br/> -->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riju951&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="riju951" width="292px"/> </br>
+<!-- <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="150"> -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riju951&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)--> <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="450" align="right"> 
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="2220" />
+<!-- ![](./assets/profile-green-animate.svg) -->
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=riju951&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
