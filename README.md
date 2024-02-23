@@ -42,8 +42,7 @@
  <img alt="Replit" src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" 
  <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /> 
  <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" /> 
- <img alt="Docker" src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker" />
- <img alt="React" src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/> 
+ <img alt="Docker" src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker" /> 
  <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
  <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
  <img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
