@@ -21,18 +21,26 @@
 [![@rijansbhagat's Holopin board](https://holopin.me/rijansbhagat)](https://holopin.io/@rijansbhagat)
  
  
-##  GitHub Status:
+# ⚙️ GitHub Analytics
+  
+<table>
+  <tr>
+<td><img height="180px" src="https://github-readme-stats.vercel.app/api?username=riju951&show_icons=true&theme=dark" />
+    <td><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riju951&layout=compact&theme=dark" /></td>
+  </tr>
+</table>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=riju951&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="riju951" width="400px"/>
-    <img src="https://github-readme-streak-stats.vercel.app/api?user=riju951&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="riju961" width="400px"/><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riju951&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="riju951" width="292px"/><br/>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riju951&layout=compact&theme=dark" alt="Rijans Bhagat"/></p>
+  </div>
 
 
+# 📈 Contribution Graph  
+ [![Rijans Bhagat's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=riju951&&theme=xcode)](https://github.com/riju951)
 
+ </div>
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=riju951)](https://github.com/ryo-ma/github-profile-trophy)
 
