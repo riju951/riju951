@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rijans Bhagat</h1>
 <h3 align="center">ICT Undergraduate From Pandit Deendayal Energy University, Gujarat</h3>
 
-### <p align="center"> I firmly believe in <b>Learning</b>, <b>Building</b> new things, and <b>Contributing</b> to worthwhile real-world projects.❤</p>
+<p align="center"> I firmly believe in <b>Learning</b>, <b>Building</b> new things, and <b>Contributing</b> to worthwhile real-world projects.❤</p>
 
 <h3 align="center">Tech Enthusiast | MERN Stack Developer | Open-Source Contributor </h3> 
 
@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I am also Passionate about Photography & Fitness enthusiastic**
 
-[![](https://visitcount.itsvg.in/api?id=riju951&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=riju951&label=Profile%20views&color=6805D3&style=flat" alt="Rijans Bhagat" /> </p></h3>
 
 # 🤝 Connect with me
 
