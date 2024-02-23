@@ -34,7 +34,7 @@
 <!-- ![](./assets/profile-green-animate.svg) -->
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=riju951&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=riju951&theme=onedark)](https://github.com/riju951/github-profile-trophy)
 
 
 
