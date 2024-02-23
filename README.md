@@ -21,7 +21,7 @@
 [![@rijansbhagat's Holopin board](https://holopin.me/rijansbhagat)](https://holopin.io/@rijansbhagat)
  
  
-# <h2 align="left">📊 GitHub Status:</h2>
+# 📊 GitHub Status:
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=riju951&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 <img  src="https://github-readme-stats.vercel.app/api?username=riju951&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="riju951" width="400px"/> <img  src="https://github-readme-streak-stats.herokuapp.com/?user=riju951&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="riju961" width="400px"/></br>
@@ -36,6 +36,7 @@
 
 ## 🏆 GitHub Trophies
 
+https://github-profile-trophy.vercel.app/?username=riju951&margin-w=15
 [![trophy](https://github-profile-trophy.vercel.app/?username=riju951&theme=onedark)](https://github.com/riju951/github-profile-trophy)
 
 
