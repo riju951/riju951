@@ -35,14 +35,13 @@
   </div>
 
 # 📈 Contribution Graph  
+
  [![RIjans's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riju951&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/riju951/github-readme-activity-graph)
  
 
 # 🏆 Github Trophies
 
-<table align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=riju951)](https://github.com/ryo-ma/github-profile-trophy)
-</table>
+[![trophy](https://github-profile-trophy.vercel.app/?username=riju951)](https://github.com/riju951/github-profile-trophy)
 
 
 
