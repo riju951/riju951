@@ -36,8 +36,7 @@
 
 ## 🏆 GitHub Trophies
 
-https://github-profile-trophy.vercel.app/?username=riju951&margin-w=15
-[![trophy](https://github-profile-trophy.vercel.app/?username=riju951&theme=onedark)](https://github.com/riju951/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
