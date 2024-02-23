@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rijans Bhagat</h1>
 <h3 align="center">ICT Undergraduate From PDEU</h3>
 
-> ### I firmly believe in <b>Learning</b>, <b>Building</b> new things, and <b>Contributing</b> to worthwhile real-world projects.❤
+I firmly believe in <b>Learning</b>, <b>Building</b> new things, and <b>Contributing</b> to worthwhile real-world projects.❤
 
 <h3 align="center">Tech Enthusiast | MERN Stack Developer | Open-Source Contributor </h3>
 
 - 🌱 I’m a **MERN Stack Developer** ⚡
 
-- 📫 How to reach me **rijans.bhagat003@gmail.com**
+- 📫 reach me to me at **rijans.bhagat003@gmail.com**
 
 - ⚡ Fun fact **I am also Passionate about Photography & Fitness enthusiatic**
 
