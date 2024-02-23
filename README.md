@@ -5,7 +5,7 @@
 
 <h3 align="center">Tech Enthusiast | MERN Stack Developer | Open-Source Contributor </h3> 
 
-- 🌱 I’m a **MERN Stack Developer** ⚡
+- 🌱 I’m a **MERN Stack Developer** 
 
 - 📫 reach out to me at **rijans.bhagat003@gmail.com**
 
