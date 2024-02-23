@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I am also Passionate about Photography**
 
-# Connect with me
+# 🤝 Connect with me
 
 <div align="center">
 <a  href=" https://rijansbhagat.vercel.app/" target="_blank"><img alt="Webiste" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
