@@ -7,7 +7,7 @@
 
 - 🌱 I’m a **MERN Stack Developer** ⚡
 
-- 📫 reach me to me at **rijans.bhagat003@gmail.com**
+- 📫 reach out to me at **rijans.bhagat003@gmail.com**
 
 - ⚡ Fun fact **I am also Passionate about Photography & Fitness enthusiastic**
 
