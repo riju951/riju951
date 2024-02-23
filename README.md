@@ -26,7 +26,6 @@
 
 <img  src="https://github-readme-stats.vercel.app/api?username=riju951&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="riju951" width="400px"/> <img  src="https://github-readme-streak-stats.herokuapp.com/?user=riju951&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="riju961" width="400px"/></br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riju951&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="riju951" width="292px"/> </br>
-<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="450" align="right">
 
 
 ## 🏆 GitHub Trophies
