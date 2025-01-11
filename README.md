@@ -9,7 +9,7 @@
 
 - 📫 reach out to me at **rijans.bhagat003@gmail.com**
 
-- ⚡ Fun fact **I am Passionate about Photography, Cinemetography & Fitness**
+- ⚡ Fun fact **I am Passionate about Photography, Cinemography & Fitness**
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=riju951&label=Profile%20views&color=6805D3&style=flat" alt="Rijans Bhagat" /> </p></h3>
 
