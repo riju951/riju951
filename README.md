@@ -81,7 +81,3 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=riju951&row=1)](https://github.com/riju951/github-profile-trophy)
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-
-
-
