@@ -3,7 +3,7 @@
 
 <p align="center"> I firmly believe in <b>Learning</b>, <b>Building</b> new things, and<b>Contributing</b> to worthwhile real-world projects. </p>
 
-<h3 align="center">Tech Enthusiast | MERN & Blockchain Developer | Open-Source Contributor</h3> 
+<h3 align="center">Tech Enthusiast | MERN & Blockchain Developer | Open-Source Contributor </h3> 
 
 - 🌱 I’m a **MERN & Blockchain Developer** 
 
