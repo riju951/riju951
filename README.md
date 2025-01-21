@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 , I'm Rijans Bhagat </h1>
 <h3 align="center">ICT Undergraduate From Pandit Deendayal Energy University, Gujarat </h3>
 
-<p align="center"> I firmly believe in <b>Learning</b>, <b>Building</b> new things, and<b>Contributing</b> to worthwhile real-world projects. </p>
+<p align="center"> I firmly believe in <b>Learning</b>, <b>Building</b> new things, and<b>Contributing</b> to worthwhile real-world projects.</p>
 
 <h3 align="center">Tech Enthusiast | MERN & Blockchain Developer | Open-Source Contributor </h3> 
 
